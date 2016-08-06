@@ -1,0 +1,28 @@
+name: a golfers diary
+favicon: null
+layout_spectrum: 0.7118149371817708
+typography_spectrum: 0.08736629458144307
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.23474647104740143
+  lightness: 0.40807427815161645
+  saturation: 0.49087525508366525
+  rhythmicContrast: 0.5929233762435615
+purpose: []
