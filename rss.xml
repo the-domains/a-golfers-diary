@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[a golfers diary]]></title>
+        <description><![CDATA[a golfers diary]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Aug 2016 22:05:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A golfers diary]]></title>
+            <description><![CDATA[<article><h1>A golfers diary</h1><p>For the
+love of the game!</p></article>]]></description>
+            <link>undefineda-golfers-diary/index.html</link>
+            <guid isPermaLink="false">f70c92bc-0bfc-4ec7-8f65-b82a57b6ccdd</guid>
+            <pubDate>Sat, 06 Aug 2016 22:05:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
